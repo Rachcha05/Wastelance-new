@@ -1,0 +1,48 @@
+.categoryImageContainer {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  .categoryImageContainer img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  
+  .modal-header {
+    background-color: #0052d4;
+    color: white;
+  }
+  
+  .categoryImageContainer {
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    text-align: center;
+  }
+  
+
+/* .modal-header{
+    padding: 5px 15px;
+    background-color: #333;
+}
+.modal-title{
+    font-size: 18px;
+    color: #fff;
+}
+.modal-footer{
+    padding: 5px 15px;
+}
+
+.actionBtnContainer{
+    display: flex;
+    align-items: center;
+}
+
+.actionBtnContainer > button{
+    border: 0;
+    margin: 0 5px;
+    font-size: 14px;
+} */
